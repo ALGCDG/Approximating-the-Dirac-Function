@@ -1,2 +1,2 @@
 # Approximating-the-Dirac-Function
-An example of approximating the Dirac (delta) function in matlab
+An example of approximating the Dirac ( i.e. delta or δ(t) ) function in matlab
